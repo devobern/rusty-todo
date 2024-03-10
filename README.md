@@ -1,0 +1,2 @@
+# rusty-todo
+A practical Rust learning project developed alongside the 'Introduction to Rust and Embedded Systems' module at Bern University of Applied Sciences. This command-line task management application allows users to create, update, and delete tasks, persisting them in a JSON file. The project demonstrates key Rust features such as error handling, data serialization, file I/O, and the use of common Rust patterns and idioms. It serves as a hands-on way to better understand the Rust programming language.
